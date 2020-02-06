@@ -1,0 +1,6 @@
+web\lib\WebDriverManager.class
+web\generic\Page.class
+web\step\LoginSteps.class
+web\generic\WebDriverDOM.class
+web\generic\Parameters.class
+web\page\login_page\LoginPage.class
